@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mqrashid
+- 👋 Hi, I’m Qasim Rashid aka @mqrashid
 - 👀 I’m interested in exploring the field of machine learning and data analytics and interested in creating an impact with power of knowledge.
 - 🌱 I’m currently learning machine learning and data analytics.
 - 💞️ I’m looking to collaborate on impactful projects in team settings.
